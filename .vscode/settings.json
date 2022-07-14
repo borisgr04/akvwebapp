@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/07f2809d-a4ef-4c65-9872-653ccc1e8106/microsoft.web/sites/subscriptions/07f2809d-a4ef-4c65-9872-653ccc1e8106/resourceGroups/bya/providers/Microsoft.Web/sites/testwebkv"
+}
